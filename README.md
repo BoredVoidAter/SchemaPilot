@@ -1,0 +1,3 @@
+# SchemaPilot
+
+SchemaPilot is a command-line utility designed to streamline interaction with local development databases. It enables developers to easily explore database schemas, view table structures, inspect sample data, and generate basic SQL migration scripts directly from the terminal. The tool supports popular relational databases like SQLite, PostgreSQL, and MySQL. It aims to simplify database exploration and basic schema management, reducing the need for heavy GUI clients during development workflows.
